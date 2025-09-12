@@ -78,3 +78,18 @@
    78  git checkout main
    79  git push origin main
    80  history
+   81  nano Readme.txt
+   82  nano Readme.txt
+   83  nano Readme.txt
+   84  git add .
+   85  git commit -m "Update Readme.txt"
+   86  git push origin main
+   87  git checkout Coscos_B4
+   88  git rm Test.py
+   89  git commit -m "remove Test.py"
+   90  git push origin Coscos_B4
+   91  history
+   92  git checkout main
+   93  nano Readme.txt
+   94  history
+
