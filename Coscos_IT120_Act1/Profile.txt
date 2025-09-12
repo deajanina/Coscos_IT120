@@ -5,3 +5,9 @@ Gender: Female
 Age: 29
 Birthday: January 03, 1996
 Contacts: 09608380852
+Birth of Place: Cabadbaran
+Religion: LDS
+Father's Name: Cornelio Golez Coscos Sr.
+Occupation: Retired Personal Driver
+Mother's Name: Andresa Sagot Cosmo-Coscos
+Occupation: Housewife
