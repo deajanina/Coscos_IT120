@@ -2,3 +2,6 @@ Elementary school: Soriano Elementary School
 Year Graduated: 2008
 High School: Northern Mindanao Colleges, Inc.
 Year Graduated: 2012
+College: Caraga State University - Cabadbaran Campus
+Program: BS INFOTECH
+Year Level: Third Year
