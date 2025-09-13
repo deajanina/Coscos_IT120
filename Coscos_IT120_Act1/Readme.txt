@@ -92,4 +92,24 @@
    92  git checkout main
    93  nano Readme.txt
    94  history
+   95  nano Readme.txt
+   96  git add .
+   97  git commit -m "Updated Readme.txt"
+   98  git push origin main
+   99  git status
+  100  git branch
+  101  git branch -r
+  102  git branch-a
+  103  git branch -a
+  104  git fetch --all
+  105  history
+  106  history
+  107  cd ~/Desktop/Coscos_IT120/Coscos_IT120_Act1
+  108  git status
+  109  git branch
+  110  git branch -r
+  111  git push origin Coscos_B1
+  112  git push origin Coscos_B2
+  113  git push origin Coscos_B3
+  114  history
 
